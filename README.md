@@ -2,7 +2,7 @@
 
 This project demonstrates how to fine-tune a **TinyLlama (1.1B Chat)** model to generate **SQL queries from natural language** using **LoRA (Low-Rank Adaptation)**.
 
----
+--- 
 
 ## 📌 Overview
 
